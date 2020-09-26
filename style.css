@@ -1,0 +1,22 @@
+body {
+    background-color: lavenderblush;
+}
+
+
+h1 {
+    text-align: center;
+    color: lightcoral;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: #ffffff;
+    border: 3px solid #047f21;
+    padding: 1em;
+    border-radius: 50%;
+    width: 100%;
+}
